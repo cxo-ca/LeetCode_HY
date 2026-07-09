@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/cxo-ca/LeetCode_HY/tree/master/0707-design-linked-list) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/cxo-ca/LeetCode_HY/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/cxo-ca/LeetCode_HY/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/cxo-ca/LeetCode_HY/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
