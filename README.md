@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/cxo-ca/LeetCode_HY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cxo-ca/LeetCode_HY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/cxo-ca/LeetCode_HY/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/cxo-ca/LeetCode_HY/tree/master/0198-house-robber) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/cxo-ca/LeetCode_HY/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/cxo-ca/LeetCode_HY/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/cxo-ca/LeetCode_HY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cxo-ca/LeetCode_HY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/cxo-ca/LeetCode_HY/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/cxo-ca/LeetCode_HY/tree/master/0338-counting-bits) |
