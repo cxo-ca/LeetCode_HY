@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/cxo-ca/LeetCode_HY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cxo-ca/LeetCode_HY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/cxo-ca/LeetCode_HY/tree/master/0130-surrounded-regions) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/cxo-ca/LeetCode_HY/tree/master/0130-surrounded-regions) |
 ## Math
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/cxo-ca/LeetCode_HY/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/cxo-ca/LeetCode_HY/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/cxo-ca/LeetCode_HY/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cxo-ca/LeetCode_HY/tree/master/0121-best-time-to-buy-and-sell-stock) |
