@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/cxo-ca/LeetCode_HY/tree/master/0605-can-place-flowers) |
 | [0746-min-cost-climbing-stairs](https://github.com/cxo-ca/LeetCode_HY/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/cxo-ca/LeetCode_HY/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/cxo-ca/LeetCode_HY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/cxo-ca/LeetCode_HY/tree/master/0217-contains-duplicate) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/cxo-ca/LeetCode_HY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Recursion
 |  |
 | ------- |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/cxo-ca/LeetCode_HY/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/cxo-ca/LeetCode_HY/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/cxo-ca/LeetCode_HY/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/cxo-ca/LeetCode_HY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
