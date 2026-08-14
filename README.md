@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/cxo-ca/LeetCode_HY/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/cxo-ca/LeetCode_HY/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/cxo-ca/LeetCode_HY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/cxo-ca/LeetCode_HY/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/cxo-ca/LeetCode_HY/tree/master/0217-contains-duplicate) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/cxo-ca/LeetCode_HY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/cxo-ca/LeetCode_HY/tree/master/1710-maximum-units-on-a-truck) |
 ## Recursion
 |  |
 | ------- |
@@ -160,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/cxo-ca/LeetCode_HY/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/cxo-ca/LeetCode_HY/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/cxo-ca/LeetCode_HY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/cxo-ca/LeetCode_HY/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
