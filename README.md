@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/cxo-ca/LeetCode_HY/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/cxo-ca/LeetCode_HY/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/cxo-ca/LeetCode_HY/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/cxo-ca/LeetCode_HY/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/cxo-ca/LeetCode_HY/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/cxo-ca/LeetCode_HY/tree/master/0605-can-place-flowers) |
@@ -163,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/cxo-ca/LeetCode_HY/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/cxo-ca/LeetCode_HY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/cxo-ca/LeetCode_HY/tree/master/1710-maximum-units-on-a-truck) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
