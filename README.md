@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/cxo-ca/LeetCode_HY/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/cxo-ca/LeetCode_HY/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/cxo-ca/LeetCode_HY/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/cxo-ca/LeetCode_HY/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/cxo-ca/LeetCode_HY/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/cxo-ca/LeetCode_HY/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/cxo-ca/LeetCode_HY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/cxo-ca/LeetCode_HY/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
