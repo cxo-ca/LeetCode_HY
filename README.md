@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cxo-ca/LeetCode_HY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/cxo-ca/LeetCode_HY/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cxo-ca/LeetCode_HY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0572-subtree-of-another-tree](https://github.com/cxo-ca/LeetCode_HY/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cxo-ca/LeetCode_HY/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
