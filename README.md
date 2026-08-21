@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cxo-ca/LeetCode_HY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/cxo-ca/LeetCode_HY/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/cxo-ca/LeetCode_HY/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/cxo-ca/LeetCode_HY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/cxo-ca/LeetCode_HY/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/cxo-ca/LeetCode_HY/tree/master/0213-house-robber-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/cxo-ca/LeetCode_HY/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/cxo-ca/LeetCode_HY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/cxo-ca/LeetCode_HY/tree/master/0704-binary-search) |
 ## Sliding Window
