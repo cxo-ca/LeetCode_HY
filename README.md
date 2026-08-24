@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/cxo-ca/LeetCode_HY/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/cxo-ca/LeetCode_HY/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/cxo-ca/LeetCode_HY/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cxo-ca/LeetCode_HY/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cxo-ca/LeetCode_HY/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/cxo-ca/LeetCode_HY/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/cxo-ca/LeetCode_HY/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/cxo-ca/LeetCode_HY/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
