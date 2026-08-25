@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/cxo-ca/LeetCode_HY/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/cxo-ca/LeetCode_HY/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/cxo-ca/LeetCode_HY/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/cxo-ca/LeetCode_HY/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/cxo-ca/LeetCode_HY/tree/master/0118-pascals-triangle) |
@@ -190,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/cxo-ca/LeetCode_HY/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/cxo-ca/LeetCode_HY/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
